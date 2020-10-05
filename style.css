@@ -1,0 +1,7 @@
+td{/*toutes les cellules des tableaux*/
+    border: 1px solid black;
+}
+
+.centre{
+    text-align: center;
+}
