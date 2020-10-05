@@ -1,7 +1,13 @@
+table{
+    border: 1px solid black;
+}
+
+th{
+    border: 1px solid black;
+}
+
 td{/*toutes les cellules des tableaux*/
     border: 1px solid black;
 }
 
-.centre{
-    text-align: center;
-}
+caption{font-weight: bold;}
